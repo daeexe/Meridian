@@ -1,4 +1,4 @@
-readme_content = """# Meridian Reach and Frequency Demo
+#### Meridian Reach and Frequency Demo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)  
 [View source on GitHub](https://github.com/google/meridian)
