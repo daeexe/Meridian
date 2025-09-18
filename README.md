@@ -1,6 +1,11 @@
 # Meridian Reach and Frequency Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daeexe/Meridian/blob/main/demo_notebook.ipynb)
+![License](https://img.shields.io/github/license/daeexe/Meridian)
+![GitHub Repo stars](https://img.shields.io/github/stars/daeexe/Meridian?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/daeexe/Meridian)
+![Under Active Development](https://img.shields.io/badge/status-active--development-orange)
+
 [View source on GitHub](https://github.com/google/meridian)
 
 ---
