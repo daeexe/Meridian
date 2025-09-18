@@ -170,6 +170,14 @@ By using this repository, you agree to:
 
 ---
 
+---
+
 ## 📜 License
-This project is distributed under the **Apache 2.0 License**.  
-See the [LICENSE](LICENSE) file for more details.
+
+This project is distributed under the **Apache 2.0 License**.
+
+You are free to use, modify, and distribute this code under the terms of the license.  
+However, please note that this repository is a modification of [Google's Meridian project](https://github.com/google/meridian) and remains subject to the original Apache 2.0 terms.
+
+➡️ See the full [LICENSE.txt](https://github.com/daeexe/Meridian/blob/main/LICENSE.txt) for more details.
+
