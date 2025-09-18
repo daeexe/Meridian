@@ -152,6 +152,21 @@ mmm = model.load_mmm(file_path)
     ├── summary_output.html
     └── optimization_output.html
 ```
+---
+
+## 📎 Usage
+
+This repository is intended for **research and educational purposes only**.
+
+While the code is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0), which permits commercial use, **I do not endorse or support** any commercial usage of this modified version without prior written permission.
+
+If you are planning to use this project for commercial applications (e.g. as part of a product, service, or for client work), please [contact me](mailto:your.email@example.com) first.
+
+By using this repository, you agree to:
+
+- Properly attribute the original authors ([Google's Meridian project](https://github.com/google/meridian))
+- Avoid using this code or outputs for direct commercial gain without permission
+- Respect the spirit of open collaboration and responsible AI development
 
 ---
 
