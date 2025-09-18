@@ -160,7 +160,7 @@ This repository is intended for **research and educational purposes only**.
 
 While the code is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0), which permits commercial use, **I do not endorse or support** any commercial usage of this modified version without prior written permission.
 
-If you are planning to use this project for commercial applications (e.g. as part of a product, service, or for client work), please [contact me](mailto:your.email@example.com) first.
+If you are planning to use this project for commercial applications (e.g. as part of a product, service, or for client work), please [contact me](mailto:daede25@outlook.com) first.
 
 By using this repository, you agree to:
 
